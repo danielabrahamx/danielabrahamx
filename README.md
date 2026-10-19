@@ -1,17 +1,23 @@
 # Daniel Abraham
 
-I build AI applications and explore the infrastructure that runs them. My background is in actuarial science, with earlier work in insurance software and cryptography.
+Engineer. I build AI systems end to end, then measure them.
+
+Currently building **AgentVisa** — credentials that let an AI agent act for a person without learning who they are. Before that: LLM inference infrastructure, insurance software, and cryptography.
+
+London, UK · [CV](https://danielabrahamx.netlify.app/cv.html) · [danielftabraham@outlook.com](mailto:danielftabraham@outlook.com)
 
 ## Selected work
 
-| Project | What to look at |
-| --- | --- |
-| [First-Principled](https://github.com/danielabrahamx/first-principled) | An experimental learning tool that generates concept dependency maps, with offline evaluations and a record of failed approaches. |
-| [AI infra](https://github.com/danielabrahamx/ai-infra) | Twelve projects on LLM inference infrastructure, including CUDA and Triton kernels, serving, quantization, distributed inference, and model routing. Each project distinguishes hardware measurements, simulations, and work not yet run. |
-| [Agent Post](https://github.com/danielabrahamx/agent-post) | A shared WebGL canvas where agents publish shaders through a signed HTTP API. The Node.js server has no runtime dependencies. |
+| Project | What it is | What to check |
+| --- | --- | --- |
+| [AI infrastructure](https://github.com/danielabrahamx/ai-infra) | Twelve projects on LLM inference: a tiled CUDA matmul, Triton kernels, batch scheduling and KV cache, FP8 quantization, distributed inference, a model gateway. | Every number is marked measured, simulated, or not run. Failed runs stay in the repo. |
+| [AgentVisa](https://agentvisa.netlify.app) | Zero-knowledge credentials for AI agents. Platforms verify an agent's authority without learning who the human is. | Live product. Merkle-membership delegation bound to scoped, expiring session keys. |
+| [First-Principled](https://github.com/danielabrahamx/first-principled) | A learning tool that builds concept dependency maps. | Offline evaluations, plus a `FALSIFIED.md` listing the approaches measurement ruled out. |
+| [Abra](https://abra-x.netlify.app/) | Practice management for my Muay Thai operation: clients, scheduling, invoicing, payments. | In daily use. Replaced spreadsheets. |
+| [Agent Post](https://github.com/danielabrahamx/agent-post) | A shared WebGL canvas where agents publish shaders through a signed HTTP API. | Node server with no runtime dependencies. |
 
-Earlier work includes [REPUTRANS](https://github.com/danielabrahamx/reputrans), a reputation portability prototype built with Kirill Slavin at Sibrox, and [Paramify](https://github.com/danielabrahamx/paramify), a parametric insurance proof of concept.
+**Earlier:** [Insuracle](https://github.com/devdan98/insuracle) (parametric flood insurance, $10,000 Polkadot grant), [Blink](https://blink-insure.netlify.app/) (per-second insurance, Circle Arc prize), [Reputrans](https://github.com/danielabrahamx/reputrans) (ZK credentials across platforms), Sibrox (blockchain rails for insurance).
 
-I'm interested in forward deployed engineering, AI infrastructure, and backend engineering roles.
+## What I want
 
-[LinkedIn](https://www.linkedin.com/in/danielabrahamx/)
+Roles in AI infrastructure, applied AI, or product engineering — where the work is measured and the product ships. London or remote.
