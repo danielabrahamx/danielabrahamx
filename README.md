@@ -2,7 +2,7 @@
 
 Engineer. I build AI systems end to end, then measure them.
 
-Currently building **AgentVisa** — credentials that let an AI agent act for a person without learning who they are. Before that: LLM inference infrastructure, insurance software, and cryptography.
+Currently building **AgentVisa** - credentials that let an AI agent act for a person without learning who they are. Before that: LLM inference infrastructure, insurance software, and cryptography.
 
 London, UK · [CV](https://danielabrahamx.netlify.app/cv.html) · [danielftabraham@outlook.com](mailto:danielftabraham@outlook.com)
 
@@ -18,6 +18,4 @@ London, UK · [CV](https://danielabrahamx.netlify.app/cv.html) · [danielftabrah
 
 **Earlier:** [Insuracle](https://github.com/devdan98/insuracle) (parametric flood insurance, $10,000 Polkadot grant), [Blink](https://blink-insure.netlify.app/) (per-second insurance, Circle Arc prize), Reputrans (ZK credentials across platforms), Sibrox (blockchain rails for insurance).
 
-## What I want
 
-Roles in AI infrastructure, applied AI, or product engineering — where the work is measured and the product ships. London or remote.
